@@ -1,0 +1,8 @@
+
+{
+  "name": "AIWaveAgency",
+  "description": "An all-in-one AI voice receptionist for Barber Shops, Beauty Salons, and Medical Spas with real-time booking and manager transfer capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
